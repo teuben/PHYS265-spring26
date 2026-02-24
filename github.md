@@ -125,7 +125,18 @@ See also https://github.com/settings/keys
 
 Copy and paste the contents of your ~/.ssh/ed....pub file into the online field 
 
-There could be more here on how keys are generated with **ssh-keygen** and **ssh-copy-id** 
+There could be more here on how keys are generated with **ssh-keygen** and **ssh-copy-id**
+
+## Upstream Merge (advanced)
+
+If the upstream (the repo you forked from) was updated, you can merge them into your main:
+
+1. Switch to your default branch (main) from the top menu click **Current Branch** and pick main.
+
+2. Fetch changes from all remotes (including upstream). This is the top right button, the button may
+   change to Push origin or Pull origin afterwards.
+
+3. Top menu bar:  **Branch > Merge into current branch**
 
 ## Class Repository
 
