@@ -14,7 +14,8 @@ personal laptop or a home network. Obviously for collaboration something
 like *github* is the way to go.
 
 In this class you will learn git, and how to use github to maintain a
-git repository. We will use git to submit the labs and the final project on github.
+git repository. We will use git to submit the three labs, not ELMS.
+Remember, after you graduate, there is no more ELMS. But will be github!
 
 Even if these terms makes sense to you, we will **not** use git *branches*, or
 learn how to submit a *pull request*, or force *main branch protection*.
@@ -29,6 +30,8 @@ you can download and install this
 from https://desktop.github.com . This application greatly simplifies working with Git.
 
 Linux users can get it from https://github.com/shiftkey/desktop/releases
+
+Problems can be communally filed under https://github.com/astroumd/PHYS265-spring26/issues
 
 ### CLI: git
 
@@ -60,7 +63,7 @@ for power users with fast fingers.
    to merge in updates from the **upstream**. If you don't care, click on Cancel here.
 
 5. Modify the NAME file, and complete it by puting your name in it. You can do this from your JDL app, or
-   any native operating system tool.
+   any native operating system tool. Even emacs.
 
 6. Look back in Github Desktop, you should see the NAME file changed.
    Modified files have an orange square with a circle in the middle.
